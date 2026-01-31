@@ -23,7 +23,7 @@ Enthusiastic and results-driven beginner in data science with a strong foundatio
 
 Developed an end-to-end machine learning project for sentiment analysis. The work involved data collection, preprocessing, model selection, training, and deployment, showcasing full-cycle data science capabilities.
 
-**Link:** [my_pet_project](github.com/drowmorder/sentiment_analyzer)
+**Link:** [Django Sentiment Analyzer](https://github.com/drowmorder/sentiment_analyzer.git)
 
 
 
@@ -33,7 +33,7 @@ Developed an end-to-end machine learning project for sentiment analysis. The wor
 
 Top 15 Finish: Achieved 15th place out of numerous participants in the "21 VEK-BY Demand Pattern Prediction" competition. Demonstrated strong problem-solving skills, feature engineering, and model optimization in a time-series forecasting challenge.
 
-**Link:** [leader_board](https://www.kaggle.com/competitions/21-vek-by-demand-pattern-prediction/leaderboard)
+**Link:** [Leader Board](https://www.kaggle.com/competitions/21-vek-by-demand-pattern-prediction/leaderboard)
 
 ---
 
