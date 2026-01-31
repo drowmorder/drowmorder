@@ -79,4 +79,4 @@ Top 15 Finish: Achieved 15th place out of numerous participants in the "21 VEK-B
 ---
 
 ### Contacts
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  @mohnatiy_pen
