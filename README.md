@@ -78,6 +78,8 @@ Top 15 Finish: Achieved 15th place out of numerous participants in the "21 VEK-B
 
 ---
 
-### Contacts
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)  @mohnatiy_pen
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) drowmorder@gmail.com
+## Contacts
+
+## @mohnatiy_pen ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+
+## drowmorder@gmail.com ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
