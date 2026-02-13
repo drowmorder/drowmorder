@@ -23,6 +23,8 @@ Enthusiastic and results-driven beginner in data science with a strong foundatio
 
 Developed an end-to-end machine learning project for sentiment analysis. The work involved data collection, preprocessing, model selection, training, and deployment, showcasing full-cycle data science capabilities.
 
+**Link:** [Sentiment Analyzer_EDA](https://github.com/drowmorder/sentiment_analyzer/blob/19f8c360e07fd6b03bc37d28bf3bbebbea9f1e42/data/SA_EDA/SentimentAnalysis.ipynb)
+
 **Link:** [Django Sentiment Analyzer](https://github.com/drowmorder/sentiment_analyzer.git)
 
 
