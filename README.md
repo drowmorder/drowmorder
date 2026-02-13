@@ -31,7 +31,7 @@ Developed an end-to-end machine learning project for sentiment analysis. The wor
 
 ### **Kaggle Competition** 
 
-Top 19 Finish: Achieved 19th place out of numerous participants in the "21 VEK-BY Demand Pattern Prediction" competition. Demonstrated strong problem-solving skills, feature engineering, and model optimization in a time-series forecasting challenge.
+Top 19: Achieved 19th place out of numerous participants in the "21 VEK-BY Demand Pattern Prediction" competition. Demonstrated strong problem-solving skills, feature engineering, and model optimization in a time-series forecasting challenge.
 
 **Link:** [Solution](https://github.com/drowmorder/21vek_competition.git)
 
